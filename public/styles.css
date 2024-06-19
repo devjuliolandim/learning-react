@@ -5,10 +5,11 @@
 }
 html {
   font-family: "Montserrat", sans-serif;
+  overflow-x: hidden;
 }
 body {
   background: #eee;
-  padding: 0 16px;
+  padding: 0px;
 }
 
 header {
